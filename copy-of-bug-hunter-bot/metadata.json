@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Bug Hunter Bot",
+  "description": "An autonomous AI agent that surfs the web to discover and analyze potential security vulnerabilities in websites.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
